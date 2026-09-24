@@ -1,0 +1,210 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-b23a0b23c080df4d29ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Source",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-Source-Debug-5445629b11f46a4eb75e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Source",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Source/BasicMathFunctions",
+					"jsonFile" : "directory-Source.BasicMathFunctions-Debug-26d2fed5aac228095c1a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/BasicMathFunctions"
+				},
+				{
+					"build" : "Source/ConcatenationFunctions",
+					"jsonFile" : "directory-Source.ConcatenationFunctions-Debug-c7fbe6a34dba86c7a10a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/ConcatenationFunctions"
+				},
+				{
+					"build" : "Source/FullyConnectedFunctions",
+					"jsonFile" : "directory-Source.FullyConnectedFunctions-Debug-3d9124a0cf8b12900e14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/FullyConnectedFunctions"
+				},
+				{
+					"build" : "Source/ConvolutionFunctions",
+					"jsonFile" : "directory-Source.ConvolutionFunctions-Debug-07df168a51d0a6213534.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/ConvolutionFunctions"
+				},
+				{
+					"build" : "Source/ActivationFunctions",
+					"jsonFile" : "directory-Source.ActivationFunctions-Debug-b022ba4ac39e35d624c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/ActivationFunctions"
+				},
+				{
+					"build" : "Source/PoolingFunctions",
+					"jsonFile" : "directory-Source.PoolingFunctions-Debug-2d5c05113f6163246e21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/PoolingFunctions"
+				},
+				{
+					"build" : "Source/SoftmaxFunctions",
+					"jsonFile" : "directory-Source.SoftmaxFunctions-Debug-aaf624f566fae43cb1dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/SoftmaxFunctions"
+				},
+				{
+					"build" : "Source/SVDFunctions",
+					"jsonFile" : "directory-Source.SVDFunctions-Debug-092ef3fe66e6ef0bec0d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/SVDFunctions"
+				},
+				{
+					"build" : "Source/ReshapeFunctions",
+					"jsonFile" : "directory-Source.ReshapeFunctions-Debug-9f875b0e1b83eeb82c49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/ReshapeFunctions"
+				},
+				{
+					"build" : "Source/NNSupportFunctions",
+					"jsonFile" : "directory-Source.NNSupportFunctions-Debug-9e58b67b1c25af266ad1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Source/NNSupportFunctions"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "CMSISNN",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "cmsis-nn::@43690dd2fb94c8e45e84",
+					"jsonFile" : "target-cmsis-nn-Debug-1b739abcac60820e7112.json",
+					"name" : "cmsis-nn",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/basith/Desktop/mc paid/Fan/build",
+		"source" : "/Users/basith/Desktop/mc paid/Fan/Drivers/CMSIS/NN"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/basith/Desktop/mc paid/Fan/build/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/BasicMathFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/ConcatenationFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/FullyConnectedFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/ConvolutionFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/ActivationFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/PoolingFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/SoftmaxFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/SVDFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/ReshapeFunctions/cmake_install.cmake",
+		"/Users/basith/Desktop/mc paid/Fan/build/Source/NNSupportFunctions/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
